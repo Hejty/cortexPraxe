@@ -1,0 +1,7 @@
+#HalfCircle {
+    transform: translateY(0);
+}
+
+#FullCircle {
+    transform: translateX(0);
+}
